@@ -18,20 +18,22 @@ Here are some ideas to get you started:
 <!--내용 부분-->
 <h3>Tech Stack</h3>
 
+<br />
+
 <h4>Backend</h4>
 <div>
-  <h5>Java</h5>
-  <h5>Spring Boot</h5>
-  <h5>Javascript</h5>
-  <h5>Express</h5>
-  <h5>Nest.js</h5>
+  Java
+  Spring Boot
+  Javascript
+  Express
+  Nest.js
 </div>
 
 <br />
 
 <h4>Frontend</h4>
 <div>
-  <h5>React</h5>
+  React
 </div>
 
 <br>
