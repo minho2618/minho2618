@@ -77,6 +77,8 @@ Here are some ideas to get you started:
   <a href="mailto:minho2618@naver.com">E-mail</a>
 </div>
 
+<br />
+
 [![minho2618's GitHub stats](https://github-readme-stats.vercel.app/api?username=minho2618&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
