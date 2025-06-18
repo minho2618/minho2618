@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **minho2618/minho2618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
